@@ -6,11 +6,11 @@
 
 # progress 
 - [ ] How to train models that achieve state-of-the-art results in
-        * Computer vision, including image classification (e.g., classifying pet photos by
+     * Computer vision, including image classification (e.g., classifying pet photos by
         breed) and image localization and detection (e.g., finding the animals in an
         image)
 
-        * Natural language processing (NLP), including document classification
+     * Natural language processing (NLP), including document classification
             (e.g., movie review sentiment analysis) and language modeling
 - [ ]  Tabular data (e.g., sales prediction) with categorical data, continuous data, and
         mixed data, including time series
