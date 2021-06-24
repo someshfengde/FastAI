@@ -25,4 +25,4 @@
         you’re making the world a better place and that your work isn’t misused for harm
         
         
- # * link for getting original clean notebooks : https://github.com/fastai/fastbook/blob/master/clean/
+ ### link for getting original clean notebooks : https://github.com/fastai/fastbook/blob/master/clean/
