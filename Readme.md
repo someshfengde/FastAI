@@ -23,3 +23,6 @@
 - [ ] How to implement deep learning algorithms from scratch
 - [ ] How to think about the ethical implications of your work, to help ensure that
         you’re making the world a better place and that your work isn’t misused for harm
+        
+        
+ * link for getting original clean notebooks : https://github.com/fastai/fastbook/blob/master/clean/
