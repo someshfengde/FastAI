@@ -5,7 +5,7 @@
 
 
 # progress 
-- [ ] How to train models that achieve state-of-the-art results in
+- [x] How to train models that achieve state-of-the-art results in
      * Computer vision, including image classification (e.g., classifying pet photos by
         breed) and image localization and detection (e.g., finding the animals in an
         image)
@@ -25,4 +25,11 @@
         you’re making the world a better place and that your work isn’t misused for harm
         
         
- ### link for getting original clean notebooks : https://github.com/fastai/fastbook/blob/master/clean/
+ ### link for getting original clean notebooks : 
+    https://github.com/fastai/fastbook/blob/master/clean/
+ 
+ ## Kaggle competition url(distracted driver) : 
+    https://www.kaggle.com/c/state-farm-distracted-driver-detection
+ 
+ ## steps for loading the kaggle dataset in google colab : 
+    https://github.com/someshfengde/FastAI/blob/master/helper/kaggle_dataset_starter.ipynb
