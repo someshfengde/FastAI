@@ -33,3 +33,12 @@
  
  ## steps for loading the kaggle dataset in google colab : 
     https://github.com/someshfengde/FastAI/blob/master/helper/kaggle_dataset_starter.ipynb
+
+
+ ## distracted driver detection repo 
+   https://github.com/someshfengde/driver_attention_detection
+
+ ## launch the distracted driver detection app 
+ ## [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/someshfengde/driver_attention_detection/HEAD?urlpath=%2Fvoila%2Frender%2Fdeploying_driver_attention_detection_.ipynb)
+
+
