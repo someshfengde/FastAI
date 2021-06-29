@@ -24,6 +24,16 @@
 - [ ] How to think about the ethical implications of your work, to help ensure that
         you’re making the world a better place and that your work isn’t misused for harm
         
+
+
+
+
+# Lesson progress : 
+   - [x] 1st lesson : fast ai learning how to build basic model with fast ai 
+   - [x] 2nd lesson : Evidence and p values 
+   - [x] 3rd lesson : production and deployment
+   - [-] 4th lesson : SGD from scratch 
+
         
  ### link for getting original clean notebooks : 
     https://github.com/fastai/fastbook/blob/master/clean/
