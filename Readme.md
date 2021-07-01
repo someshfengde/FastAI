@@ -15,7 +15,7 @@
 - [ ]  Tabular data (e.g., sales prediction) with categorical data, continuous data, and
         mixed data, including time series
         Collaborative filtering (e.g., movie recommendation)
-- [ ] How to turn your models into web applications
+- [x] How to turn your models into web applications
 - [ ] Why and how deep learning models work, and how to use that knowledge to
         improve the accuracy, speed, and reliability of your models
 - [ ] The latest deep learning techniques that really matter in practice
