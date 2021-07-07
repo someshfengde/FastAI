@@ -29,10 +29,12 @@
 
 
 # Lesson progress : 
-   - [x] 1st lesson : fast ai learning how to build basic model with fast ai 
+   - [x] 1st lesson : fast ai learning how to build basic model with fast ai 🐱
    - [x] 2nd lesson : Evidence and p values 
    - [x] 3rd lesson : production and deployment
-   - [-] 4th lesson : SGD from scratch 
+   - [x] 4th lesson : SGD from scratch 
+   - [x] 5th lesson : Data Ethics 
+   - [-] 6th lesson : Collabrative filtering 
 
         
  ### link for getting original clean notebooks : 
