@@ -34,7 +34,8 @@
    - [x] 3rd lesson : production and deployment
    - [x] 4th lesson : SGD from scratch 
    - [x] 5th lesson : Data Ethics 
-   - [-] 6th lesson : Collabrative filtering 
+   - [x] 6th lesson : Collabrative filtering 
+   - [-] 7th lesson : Tabular data
 
         
  ### link for getting original clean notebooks : 
