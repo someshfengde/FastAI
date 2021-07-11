@@ -47,6 +47,8 @@
  ## steps for loading the kaggle dataset in google colab : 
     https://github.com/someshfengde/FastAI/blob/master/helper/kaggle_dataset_starter.ipynb
 
+ ## getting started with huggingface and fast ai 
+    https://www.kaggle.com/truthr/a-gentle-introduction-to-the-hugging-face-api
 
  ## distracted driver detection repo 
    https://github.com/someshfengde/driver_attention_detection
